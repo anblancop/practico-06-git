@@ -1,0 +1,46 @@
+.container  {
+    background-color:#c9e3ff;
+}
+
+.container-fluid .container  {
+    background-color:#8e8e8e;
+}
+
+footer .container  {
+    background-color:#ffd6c900;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #6610f2;
+    border-color: #6100ff;
+}
+
+.btn-primary:hover {
+    background-color: #7f0597;
+    border-color: #590181;
+}
+
+div.container p,
+.wrapper.style2 div.container > header > p {
+    color : black;
+}
+
+section.container-fluid {
+    background-color: #f2f2f2;
+    margin: 1rem 0 1rem 0;
+}
+
+section.container-fluid div.container{
+    padding-top: 1rem;
+}
+
+section.container-fluid h2 {
+    color: #2700ff;
+    font-size: 2rem;
+}
+
+section.container-fluid .image.fit {
+    background: #FFF;
+    padding: 1rem;
+}
