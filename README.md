@@ -1,0 +1,1 @@
+Este proyecto es para practicar las nociones básicas sobre el funcionamiento de GIT.
